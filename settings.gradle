@@ -1,0 +1,4 @@
+rootProject.name = 'myspring'
+include 'myspring-ioc'
+include 'myspring-aop'
+
